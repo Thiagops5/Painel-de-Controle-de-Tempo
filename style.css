@@ -1,0 +1,65 @@
+/* Estilo intermediário: simples, mas com cores e um visual mais agradável */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e9f0f5;
+    color: #333;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 26px;
+    margin-bottom: 15px;
+    color: #2c3e50;
+}
+
+h2#relogio {
+    font-size: 36px;
+    margin-bottom: 25px;
+    color: #2980b9;
+}
+
+h3 {
+    font-size: 18px;
+    color: #555;
+    margin: 8px 0;
+}
+
+#agora {
+    color: #7f8c8d;
+}
+
+#cronometro {
+    font-size: 34px;
+    color: #d35400;
+    margin: 25px 0;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 10px 5px;
+    font-size: 16px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+button:disabled {
+    background-color: #bdc3c7;
+    cursor: not-allowed;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #ccc;
+    margin: 40px auto;
+    width: 70%;
+}
