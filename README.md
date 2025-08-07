@@ -33,3 +33,8 @@ Para executar esta aplicação em sua máquina local, siga os passos abaixo:
    ```bash
    git clone [https://github.com/Thiagops5/Painel-de-Controle-de-Tempo.git](https://github.com/Thiagops5/Painel-de-Controle-de-Tempo.git)
 
+<a href="https://www.google.com/search?q=https://github.com/thiagops5">
+<img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D4D03AQFkuUn9b9U3wg/profile-displayphoto-shrink_200_200/B4DZZVW1YvHwAc-/0/1745188772421?e=1757548800&v=beta&t=vgs7_2p9d4cRFCg5recEG8xAziAPLf3M7Uipf1a5ul4" width="100px;" alt="Foto de Thiago Pacheco"/>
+<br />
+<sub><b>Thiago Pacheco</b></sub></a> <a href="https://www.linkedin.com/in/thiago-pacheco-tech/" title="LinkedIn"></a>
+<br />
