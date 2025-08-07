@@ -7,7 +7,7 @@ Uma aplicação web simples e elegante para visualização do tempo atual e cont
 
 **Mestre Ciel Recomenda:** _Grave um GIF curto mostrando o relógio e o cronômetro em funcionamento. Isso aumenta drasticamente o impacto visual do seu projeto. Por enquanto, pode usar uma captura de tela estática._
 
-![Demonstração do Projeto](caminho/para/sua/imagem.png)
+![Demonstração do Projeto](demonstração.mp4)
 
 ## :wrench: Funcionalidades
 
