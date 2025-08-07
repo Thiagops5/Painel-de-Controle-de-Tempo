@@ -3,11 +3,11 @@
 Uma aplicação web simples e elegante para visualização do tempo atual e controle de cronometragem, construída com tecnologias web fundamentais.
 
 ![Badge de Status]([https://web-21052025.vercel.app/])
-> :rocket: **Um link para a demonstração ao vivo será seu melhor cartão de visitas. Considere hospedar este projeto no GitHub Pages.**
 
-**Mestre Ciel Recomenda:** _Grave um GIF curto mostrando o relógio e o cronômetro em funcionamento. Isso aumenta drasticamente o impacto visual do seu projeto. Por enquanto, pode usar uma captura de tela estática._
 
-![Demonstração do Projeto](demonstração.mp4)
+<a href="demonstração.mp4" title="Clique para ver o vídeo">
+  <img src="capa-video.png" alt="Demonstração do Projeto Fusca" style="max-width:100%;">
+</a>
 
 ## :wrench: Funcionalidades
 
