@@ -2,7 +2,7 @@
 
 Uma aplicação web simples e elegante para visualização do tempo atual e controle de cronometragem, construída com tecnologias web fundamentais.
 
-[Badge de Status]([https://web-21052025.vercel.app/])
+![Badge de Status]([https://web-21052025.vercel.app/])
 
 
 <a href="demonstração.mp4" title="Clique para ver o vídeo">
